@@ -1,0 +1,63 @@
+
+#im3
+{
+    float:right;
+}
+#im2
+{
+    padding-left:170px;
+}
+#im1
+{
+    float: left;
+}
+#im6
+{
+    float: left;
+}
+#im4
+{
+    border-style: double;
+    border-width:0.2cm;
+    float: right;
+    width: 6cm;
+}
+#imhh
+{
+    padding-left:260px;
+    padding-bottom:0.5cm;
+}
+h4
+{
+    background-color: rgb(53, 48, 48);
+    color:white;
+    color: white;
+    font-weight: 900;
+    font-family:unset;
+    font-style: italic;
+    height:1cm;
+    padding:0.2cm;
+    padding-left: 4cm;   
+}
+h1
+{
+    background-color: rgb(255, 0, 0);
+    text-align:center;
+    color:white;
+    font-weight: 900;
+    font-family:unset;
+    font-style: italic;
+    height:1cm;
+    font-size:1cm;
+
+}
+#im7
+{
+    height:10cm;
+    width:34cm;
+}
+#im11
+{
+    padding-left:10cm;
+}
+
